@@ -69,11 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Mishra-0018\&show_icons=true)
-
----
 
 ## 📫 Connect with Me
 
