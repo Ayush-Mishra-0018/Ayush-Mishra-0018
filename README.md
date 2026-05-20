@@ -2,7 +2,7 @@
 
 🎓 Integrated MTech in Computer Science @ IIIT Bangalore
 💻 Interested in systems, backend engineering, and scalable applications
-🌱 Currently exploring distributed systems and concurrency
+Currently exploring distributed systems and concurrency
 
 ---
 
